@@ -1,5 +1,5 @@
 const SecondBlog = () => {
-  return <div>First blog</div>;
+  return <div>second blog</div>;
 };
 
 export default SecondBlog;
